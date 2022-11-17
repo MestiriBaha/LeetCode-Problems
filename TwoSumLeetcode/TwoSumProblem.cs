@@ -10,24 +10,20 @@ namespace TwoSumLeetcode
     {
         public int[] TwoSum(int[] nums, int target)
         {
-            int[] result = new int[2] ;
-           ; int j = 1;
-            int x = nums.Length; 
-            while(j<x)
+            int[] result = new int[2];
+            List<int> list = nums.ToList();
+            for (int i = 0; i < nums.Length; i++)
             {
-                for ( int i=0 ; i<nums.Length; i++)
-                {
-                    Console.WriteLine(" nums de j " + nums[j]);
-                    Console.WriteLine("nums de i " + nums[i]);
-                    int y = nums[i] + nums[j]; Console.WriteLine(y);
-                    if (y == target) { Console.WriteLine("finally"); result[0] = i; result[1] = j; break;  }
-                }
-                j++;
-            }
-            Console.WriteLine(result[0] );
-            Console.WriteLine(result[1]);
+                // we have to add the condition that the two number have to be distinct
+        
+                    if (list.Contains((target - list[i])) && i != list.IndexOf(target - list[i])) { result[0] = i; result[1] = list.IndexOf(target - list[i]);
+                        Console.WriteLine("index i  " + i);
+                        Console.WriteLine("index j  " + list.IndexOf(target - list[i]));
+                        Console.WriteLine("it works "); break; }
 
-            return result; 
+         
+          }
+            return result;   
         }
     }
 }

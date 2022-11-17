@@ -5,6 +5,6 @@ class TestClass
     {
         // Display the number of command line arguments.
         Solution baha = new Solution();
-        baha.TwoSum(new int[] { 1, 2, 5,3 },4) ; 
+        baha.TwoSum(new int[] { 3,3},6) ; 
     }
 }
