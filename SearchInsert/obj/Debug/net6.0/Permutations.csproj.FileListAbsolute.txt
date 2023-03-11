@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\bin\Debug\net6.0\Permutations.exe
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\bin\Debug\net6.0\Permutations.deps.json
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\bin\Debug\net6.0\Permutations.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\bin\Debug\net6.0\Permutations.dll
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\bin\Debug\net6.0\Permutations.pdb
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.dll
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\refint\Permutations.dll
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.pdb
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\Permutations.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.NET\Permutations\Permutations\obj\Debug\net6.0\ref\Permutations.dll
